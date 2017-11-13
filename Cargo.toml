@@ -1,0 +1,7 @@
+[package]
+name = "metropolis-hastings-sampler"
+version = "0.1.0"
+authors = ["David Molin <mohlin.david@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
